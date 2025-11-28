@@ -1,5 +1,5 @@
 ## Exp. No. 5
-**Date:**  
+**Date:31.10.2025**  
 
 ## POSITIVE AND NEGATIVE CLAMPER CIRCUITS
 <img width="740" height="585" alt="image" src="https://github.com/user-attachments/assets/dc3afb1d-31c1-4b7c-b5af-65ddfe042778" />
@@ -13,12 +13,13 @@
 
 
 # Tabulation
+<img width="459" height="443" alt="Screenshot 2025-11-28 185013" src="https://github.com/user-attachments/assets/ef618c03-fca3-490f-8f42-0d04ebcd99f9" />
 
 
 # Graph
+![WhatsApp Image 2025-11-28 at 18 11 02_d1682722](https://github.com/user-attachments/assets/31a93beb-302e-4f7f-ae5e-3bf567258701)
 
-
-# Sample images 
-
+![WhatsApp Image 2025-11-28 at 18 11 03_ce777df9](https://github.com/user-attachments/assets/e60e84c0-6bda-4d02-af0e-d9c53c389ba4)
 
 # Result
+Hence,the operation of non-linear shaping circuit has been studied successfully
