@@ -19,7 +19,8 @@
 |  2V          |     20 ms         |        50 KHZ              |      50.35 KHZ                  |
 
 # Graph
-![WhatsApp Image 2025-11-28 at 18 09 25_29042d55](https://github.com/user-attachments/assets/3638c7c2-7cb7-49e5-8cd2-6f8372dc500a)
+<img width="448" height="561" alt="Screenshot 2025-11-28 184233" src="https://github.com/user-attachments/assets/f1270ad4-9be4-4317-afc0-7dec9a07b3f3" />
+
 
 
 # Sample images 
