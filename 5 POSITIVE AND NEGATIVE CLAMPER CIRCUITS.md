@@ -17,9 +17,9 @@
 
 
 # Graph
-![WhatsApp Image 2025-11-28 at 18 11 02_d1682722](https://github.com/user-attachments/assets/31a93beb-302e-4f7f-ae5e-3bf567258701)
+<img width="470" height="505" alt="Screenshot 2025-11-28 185151" src="https://github.com/user-attachments/assets/e41ebf4f-c564-4b78-b32f-6a4859d292ff" />
 
-![WhatsApp Image 2025-11-28 at 18 11 03_ce777df9](https://github.com/user-attachments/assets/e60e84c0-6bda-4d02-af0e-d9c53c389ba4)
+<img width="454" height="520" alt="Screenshot 2025-11-28 185206" src="https://github.com/user-attachments/assets/47604e64-c83f-4e97-81f8-fbd306ebd92e" />
 
 # Result
 Hence,the operation of non-linear shaping circuit has been studied successfully
