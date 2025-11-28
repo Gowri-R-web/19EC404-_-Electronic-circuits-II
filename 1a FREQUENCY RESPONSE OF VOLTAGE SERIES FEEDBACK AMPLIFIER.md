@@ -29,11 +29,11 @@ The following parameters are calculated:
 
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | = 200 HZ| = 100 HZ |
+| 2 | Upper cut-off frequency | = 8 KHZ| = 12 KHZ|
+| 3 | Bandwidth | \( BW = fh - fl = 78 KHZ\) | \( BW = f'h - f'l = 12.9 KHZ \) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 16.70 dB\) | \( A'{v(mid)} = 14.92 dB\) |
+| 5 | Gain at half power point | 10 dB | 7.8 dB  |
 ---
 **Conclusion:**  
 The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
